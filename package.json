@@ -1,0 +1,24 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "Nmadir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BekFLStudio/Socket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BekFLStudio/Socket/issues"
+  },
+  "homepage": "https://github.com/BekFLStudio/Socket#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
